@@ -6,7 +6,7 @@ We still don't have these modules:
   * EO plugin for [IntelliJ IDEA](https://en.wikipedia.org/wiki/IntelliJ_IDEA)
   * EO [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) interface
   * EO to Ruby/JavaScript/Go/PHP compilers
-  * EO to Java bridge, allowing Java objects to exist inside EO programs
+  * EO to Java bridge, allowing Java objects to "live" inside EO programs
   * ARM/x86 to EO "decompiler"
 
 If/when ready to help, just text us in Telegram: [@polystat_org](https://t.me/polystat_org).
